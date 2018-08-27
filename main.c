@@ -2,5 +2,5 @@
 
 void main()
 {
-
+	printf("happy birthday to Honglei\n");
 }
